@@ -1,0 +1,7 @@
+security:
+  oauth2:
+    resource:
+      user-info-uri: http://localhost:8181/user
+
+server:
+  port: 9090
